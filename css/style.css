@@ -1,0 +1,70 @@
+#my{
+  background: white;
+  width:200px;
+  font-family: oblique;
+  text-align: center;
+  padding: 5px;
+ border-radius:6px;
+ border:5px solid #F8EFBA;
+ margin: 0 auto;
+  
+}
+.my2{
+	width:100px;
+	text-align:center;
+	
+}
+.myform{
+	width:200px;
+	margin: 0 auto;
+}
+#lo{
+	background-color:#55E6C1;
+	padding:5px;
+	width:100%;
+	color:white;
+	font-weight:bold;
+	margin-top:6px;
+	text-align:center;
+}
+
+#reg{
+	background-color:#3B3B98;
+	padding:5px;
+	width:100%;
+	color:white;
+	font-weight:bold;
+	margin-top:6px;
+	text-align:center;
+	
+	
+}
+#L1{
+	background-color:#45aaf2;
+	padding:5px;
+	width:100%;
+	color:white;
+	font-weight:bold;
+	margin-top:6px;
+	text-align:center;
+	
+	
+}
+#L2{
+	background-color:#EAB543;
+	padding:5px;
+	width:100%;
+	color:white;
+	font-weight:bold;
+	margin-top:6px;
+	text-align:center;
+	}
+#out{
+	background-color:#eb3b5a;
+	padding:5px;
+	width:100%;
+	color:white;
+	font-weight:bold;
+	margin-top:6px;
+	text-align:center;
+	}
